@@ -198,7 +198,7 @@ Nguồn: https://github.com/thuanht567/
 termux-setup-storage && pkg install php && apt upgrade && pkg install git && pkg install unzip && git clone https://github.com/soiqualang/v2-main_4ghack  && clear && cd v2 && unzip v2.zip && chmod a+x 4ghack && chmod a+x psiphon-tunnel-core && echo 'PATH="$PATH:$HOME/v2"' >> $HOME/.bashrc && source $HOME/.bashrc && echo 'PATH="$PATH:$HOME/v2"' >> $HOME/.zshrc && source $HOME/.zshrc && exit
 ```
 
-| - Chú ý: Khi các bạn copy code termux chính này thì để kết nối, các bạn vào termux rồi gõ `4ghack`` nha, ko phải là tun
+| - Chú ý: Khi các bạn copy code termux chính này thì để kết nối, các bạn vào termux rồi gõ `4ghack` nha, ko phải là tun
 
 
 ## Code Termux (Dự Phòng): 
