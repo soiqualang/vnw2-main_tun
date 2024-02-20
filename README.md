@@ -258,11 +258,11 @@ termux-setup-storage && pkg install php && apt upgrade && pkg install git && git
 * Bước 4: Tải app Hyper socks droid hoặc tun2tap, tải xong ae mở app đó lên
     + Đối với app Hyper socks droid: ae mở nó lên, chỉ cần bật 4g, ấn kết nối là đc
     + Đối với tun2tap: ae mở nó lên
-       ++ Tại dòng socks v5 proxy format host:port thì ae nhập 127.0.0.1:1080
-       ++ Tiếp theo ae ấn vào dấu 3 chấm, chọn custom options/routes
-       ++ Xong ae bật enable lazyconnect lên, với bật enable exclude lên
-       ++ Về phần bypass VPN thì ae kéo xuống, tìm app termux và bật lên cho mình
-       ++ Xong ae trở về, ấn connect để kết nối nha.
+       + Tại dòng socks v5 proxy format host:port thì ae nhập 127.0.0.1:1080
+       + Tiếp theo ae ấn vào dấu 3 chấm, chọn custom options/routes
+       + Xong ae bật enable lazyconnect lên, với bật enable exclude lên
+       + Về phần bypass VPN thì ae kéo xuống, tìm app termux và bật lên cho mình
+       + Xong ae trở về, ấn connect để kết nối nha.
 * Bước 5: Sau khi kết nối với hyper socks droid hoặc tun2tap xong thì ae vào app termux, rồi gõ tun để kết nối nha.
 
 
